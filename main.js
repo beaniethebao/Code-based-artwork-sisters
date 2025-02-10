@@ -1244,7 +1244,7 @@ function phase3() {
       textAlign(CENTER, CENTER);
       textSize(32);
       textFont(customFont);
-      text("Phase 3: Sometimes, I act like you did.", width / 2, height / 2);
+      text("Phase 3: Sometimes, I act like you used to.", width / 2, height / 2);
     } else {
       preloadDone = true;
     }
