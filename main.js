@@ -993,7 +993,7 @@ function phase2() {
       textFont(lightFont);
       text("Tap the bag, a word appears,", (width * 3) / 4, height / 2);
       text("Mix and match, create a rhythm,", (width * 3) / 4, height / 2 + 40);
-      text("A dada poem, that is it.", (width * 3) / 4, height / 2 + 80);
+      text("A Dada poem, that is it.", (width * 3) / 4, height / 2 + 80);
 
       // Draw the drawing canvas inside the black rectangle
       image(drawingCanvas, 180, 260);
